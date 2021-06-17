@@ -24,3 +24,14 @@ pushing to github
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 8cfe357] update ngrok urls
+ 1 file changed, 5 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+ ! [rejected]        master -> master (fetch first)
+error: falló el push de algunas referencias a 'git@github.com:ElectronicaYopal/Servicios.git'
+ayuda: Actualizaciones fueron rechazadas porque el remoto contiene trabajo que
+ayuda: no existe localmente. Esto es causado usualmente por otro repositorio 
+ayuda: realizando push a la misma ref. Quizás quiera integrar primero los cambios
+ayuda: remotos (ej. 'git pull ...') antes de volver a hacer push.
+ayuda: Vea 'Notes about fast-forwards0 en 'git push --help' para detalles.
+/////////////////////////////////////////////////////
