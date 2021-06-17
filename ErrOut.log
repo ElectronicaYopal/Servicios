@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ////////// Crontab Check ngrok:  jue 17 jun 2021 17:30:01 -05 //////////
 Getting urls
 pushing to github
@@ -35,3 +36,5 @@ ayuda: realizando push a la misma ref. Quizás quiera integrar primero los cambi
 ayuda: remotos (ej. 'git pull ...') antes de volver a hacer push.
 ayuda: Vea 'Notes about fast-forwards0 en 'git push --help' para detalles.
 /////////////////////////////////////////////////////
+=======
+>>>>>>> 9e3fc36b096e0fcd5dccd5b694f58dd977e89638
