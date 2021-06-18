@@ -202,3 +202,19 @@ To github.com:ElectronicaYopal/Servicios.git
 Not running... setting up
 Getting urls
 pushing to github
+[master 82c0ac3] update ngrok urls
+ 3 files changed, 16 insertions(+), 6 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   fe033fe..82c0ac3  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  jue 17 jun 2021 19:35:02 -05 //////////
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  jue 17 jun 2021 19:40:01 -05 //////////
+Not running... setting up
+Getting urls
+pushing to github
