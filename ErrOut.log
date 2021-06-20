@@ -4345,3 +4345,14 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master bcd256c] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   f88326e..bcd256c  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 20 jun 2021 03:20:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
