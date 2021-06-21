@@ -8556,3 +8556,20 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master 84d2d8f] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   066e47c..84d2d8f  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:00:01 -05 //////////
+Desde github.com:ElectronicaYopal/Servicios
+   84d2d8f..58f7543  master     -> origin/master
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Actualizando 84d2d8f..58f7543
+Not running... setting up
+Getting urls
+pushing to github
