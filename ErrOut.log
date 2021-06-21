@@ -8691,3 +8691,22 @@ Abortando
 Not running... setting up
 Getting urls
 pushing to github
+[master 5c8fd6b] update ngrok urls
+ 3 files changed, 35 insertions(+), 6 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: falló el push de algunas referencias a 'git@github.com:ElectronicaYopal/Servicios.git'
+ayuda: Actualizaciones fueron rechazadas porque la punta de tu rama actual está
+ayuda: detrás de su contraparte remota. Integra los cambios remotos (es decir
+ayuda: 'git pull ...') antes de hacer push de nuevo.
+ayuda: Mira 'Note about fast-forwards' en 'git push --help' para más detalles.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:55:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Already running, check update anyway
+Getting urls
+pushing to github
