@@ -8662,3 +8662,32 @@ Abortando
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 55770c4] update ngrok urls
+ 1 file changed, 89 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: falló el push de algunas referencias a 'git@github.com:ElectronicaYopal/Servicios.git'
+ayuda: Actualizaciones fueron rechazadas porque la punta de tu rama actual está
+ayuda: detrás de su contraparte remota. Integra los cambios remotos (es decir
+ayuda: 'git pull ...') antes de hacer push de nuevo.
+ayuda: Mira 'Note about fast-forwards' en 'git push --help' para más detalles.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:45:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:50:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+Getting urls
+pushing to github
