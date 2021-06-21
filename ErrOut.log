@@ -8513,3 +8513,24 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 1b5358b] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   a675ebe..1b5358b  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 10:45:01 -05 //////////
+Desde github.com:ElectronicaYopal/Servicios
+   1b5358b..b1f5166  master     -> origin/master
+Actualizando 1b5358b..b1f5166
+Fast-forward
+ Heyy.Master | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Heyy.Master
+curl: no URL specified!
+curl: try 'curl --help' or 'curl --manual' for more information
+/home/serverelectronica/Scripts/Manager/Checker.sh: 57: [: =: unexpected operator
+Failed in tunneling, http_status: 
+Restaring ngrok...
+Getting urls
+pushing to github
