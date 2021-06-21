@@ -8573,3 +8573,92 @@ Actualizando 84d2d8f..58f7543
 Not running... setting up
 Getting urls
 pushing to github
+[master 0c9d83d] update ngrok urls
+ 1 file changed, 17 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: falló el push de algunas referencias a 'git@github.com:ElectronicaYopal/Servicios.git'
+ayuda: Actualizaciones fueron rechazadas porque la punta de tu rama actual está
+ayuda: detrás de su contraparte remota. Integra los cambios remotos (es decir
+ayuda: 'git pull ...') antes de hacer push de nuevo.
+ayuda: Mira 'Note about fast-forwards' en 'git push --help' para más detalles.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:05:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:10:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:15:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:20:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:25:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:30:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:35:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 11:40:01 -05 //////////
+error: Los cambios locales de los siguientes archivos serán sobrescritos al fusionar:
+	ErrOut.log
+Por favor, confirma tus cambios o aguárdalos antes de fusionar.
+Abortando
+Already running, check update anyway
+Getting urls
+pushing to github
