@@ -269,3 +269,17 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 343656c] update ngrok urls
+ 1 file changed, 11 insertions(+)
+ssh: Could not resolve hostname github.com: No address associated with hostname
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 21 jun 2021 17:40:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
