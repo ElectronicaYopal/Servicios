@@ -967,3 +967,16 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 9d7ed3e] update ngrok urls
+ 1 file changed, 13 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   21bf858..9d7ed3e  master -> master
+/////////////////////////////////////////////////////
+Connection reset by 140.82.114.3 port 22
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+Already running, check update anyway
+Getting urls
+pushing to github
