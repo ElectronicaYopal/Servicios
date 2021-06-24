@@ -7333,3 +7333,19 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master b698fea] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   3cc50d7..b698fea  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 23 jun 2021 22:55:01 -05 //////////
+Desde github.com:ElectronicaYopal/Servicios
+   b698fea..84644e3  master     -> origin/master
+Actualizando b698fea..84644e3
+Fast-forward
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+Already running, check update anyway
+Getting urls
+pushing to github
