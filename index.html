@@ -28,11 +28,15 @@
 	var web8080 = "http://30c9099e598f.ngrok.io";
 	function handleSelect80(Servicios)
 	{
-     window.location = web80+Servicios.value;
+		if(Servicios.checked == true) {
+			window.location = web80+Servicios.value;
+		}
 	}
 	function handleSelect8080(Servicios)
 	{
-     window.location = web8080+Servicios.value;
+		if(Servicios.checked == true) {
+			window.location = web8080+Servicios.value;
+		}
 	}
 	</script>
 
