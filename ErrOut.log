@@ -21736,3 +21736,19 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master dc77bf3] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   8e50028..dc77bf3  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 28 jun 2021 12:10:01 -05 //////////
+Desde github.com:ElectronicaYopal/Servicios
+   dc77bf3..90dc81f  master     -> origin/master
+Actualizando dc77bf3..90dc81f
+Fast-forward
+ index.html | 2 ++
+ 1 file changed, 2 insertions(+)
+Already running, check update anyway
+Getting urls
+pushing to github
