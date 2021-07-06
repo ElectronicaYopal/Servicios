@@ -60,3 +60,12 @@ Ya está actualizado.
 Forced Restart from Github
 Getting urls
 pushing to github
+[master 9ba2f7f] update ngrok urls
+ 3 files changed, 11 insertions(+), 1 deletion(-)
+ delete mode 100644 Heyy.Master
+ create mode 100755 Request.txt
+To github.com:ElectronicaYopal/Servicios.git
+   0d179b4..9ba2f7f  master -> master
+Already running, check update anyway
+Getting urls
+pushing to github
