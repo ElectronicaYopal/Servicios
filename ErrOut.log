@@ -4,3 +4,15 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master b9593c9] update ngrok urls
+ 1 file changed, 6 insertions(+), 25931 deletions(-)
+ rewrite ErrOut.log (99%)
+To github.com:ElectronicaYopal/Servicios.git
+   166f2b9..b9593c9  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 06 jul 2021 16:20:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
