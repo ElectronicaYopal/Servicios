@@ -41518,3 +41518,18 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master 4f260a08] update ngrok urls
+ 3 files changed, 17 insertions(+), 6 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   f95ba338..4f260a08  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 19 jul 2021 18:25:01 -05 //////////
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+Already running, check update anyway
+Getting urls
+pushing to github
