@@ -47499,3 +47499,14 @@ y que el repositorio existe.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master a1751b29] update ngrok urls
+ 1 file changed, 15 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   7a0eb704..a1751b29  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 21 jul 2021 15:25:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
