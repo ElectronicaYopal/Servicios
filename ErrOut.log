@@ -47484,3 +47484,18 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 7a0eb704] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   bc283fc0..7a0eb704  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 21 jul 2021 15:20:01 -05 //////////
+ssh: connect to host github.com port 22: No route to host
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+Already running, check update anyway
+Getting urls
+pushing to github
