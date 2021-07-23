@@ -51312,3 +51312,18 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master eafe9b90] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   bf97b1ab..eafe9b90  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  jue 22 jul 2021 20:15:01 -05 //////////
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+Already running, check update anyway
+Getting urls
+pushing to github
