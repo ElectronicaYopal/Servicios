@@ -1,4 +1,4 @@
-ssh: tcp://2.tcp.ngrok.io:18755 
-http80: http://7ba777e99b1b.ngrok.io 
-http8080: http://48e6602800cc.ngrok.io 
-xRDP: tcp://4.tcp.ngrok.io:16056 
+ssh: tcp://6.tcp.ngrok.io:12830 
+http80: http://f9cef1b12f72.ngrok.io 
+http8080: http://4f0dac2c62fb.ngrok.io 
+xRDP: tcp://8.tcp.ngrok.io:17696 
