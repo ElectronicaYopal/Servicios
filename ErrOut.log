@@ -66973,3 +66973,15 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 8a66ef96] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   d0156da8..8a66ef96  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 27 jul 2021 18:20:01 -05 //////////
+Warning: Permanently added the RSA host key for IP address '20.201.28.151' to the list of known hosts.
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
