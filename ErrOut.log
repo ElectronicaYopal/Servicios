@@ -70377,3 +70377,15 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 55119970] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+ ! [remote rejected]   master -> master (cannot lock ref 'refs/heads/master': is at fe33530a885c3233e5b1bc2e55707f72f5fbcade but expected 12425c4e0bc969133da4396db6da48cc554f5dc1)
+error: falló el push de algunas referencias a 'git@github.com:ElectronicaYopal/Servicios.git'
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 28 jul 2021 17:50:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
