@@ -34,6 +34,7 @@
 	<script type="text/javascript">
 	var web80 = "http://7898bec9f31a.ngrok.io";
 	var web8080 = "http://3e3842fe7bde.ngrok.io";
+	var web3000 = "http://3e3842fe7bde.ngrok.io";
 	function handleSelect80(Servicios)
 	{
 		if(Servicios.checked == true) {
@@ -44,6 +45,12 @@
 	{
 		if(Servicios.checked == true) {
 			window.location = web8080+Servicios.value;
+		}
+	}
+	function handleSelect3000(Servicios)
+	{
+		if(Servicios.checked == true) {
+			window.location = web3000+Servicios.value;
 		}
 	}
 	</script>
@@ -60,10 +67,10 @@
 			<input type="checkbox" id="INGELAB" value="/INGELAB" onchange="handleSelect80(this)">
 			<label for="INGELAB"> Ingreso a laboratorios Electrónica</label><br>
 			<br>
-			<input type="checkbox" id="Weather" value="/weewx" onchange="handleSelect80(this)">
+			<input type="checkbox" id="Weather" value="/" onchange="handleSelect3000(this)">
 			<label for="Weather"> Estación Meteorológica Unisangil</label><br>
 			<br><br>
-			<input type="checkbox" id="Api_1" value="/swagger" onchange="handleSelect8080(this)">
+			<input type="checkbox" id="Api_1" value="/" onchange="handleSelect8080(this)">
 			<label for="Api_1"> Otros</label><br>
 			<br><br>
 			<b>Nota:</b><br> Enlaces a servicios generados aleatoriamente, compartir únicamente esta página.
