@@ -5575,3 +5575,14 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master db1c55f9] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   fab324b3..db1c55f9  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 31 jul 2021 11:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
