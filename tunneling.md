@@ -1,4 +1,4 @@
-ssh: tcp://6.tcp.ngrok.io:11620 
-http80: http://213b1263ca59.ngrok.io 
-http8080: http://992ec8854562.ngrok.io 
-http3000: http://69ff681dce18.ngrok.io 
+ssh: tcp://0.tcp.ngrok.io:14022 
+http80: http://a4dd7818330a.ngrok.io 
+http8080: http://4fd069c3bade.ngrok.io 
+http3000: http://86697ec0cdec.ngrok.io 
