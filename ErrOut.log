@@ -16818,3 +16818,16 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master a2ac8b03] update ngrok urls
+ 1 file changed, 11 insertions(+)
+remote: Internal Server Error
+To github.com:ElectronicaYopal/Servicios.git
+ ! [remote failure]    master -> master (remote failed to report status)
+error: falló el push de algunas referencias a 'git@github.com:ElectronicaYopal/Servicios.git'
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 04 ago 2021 13:55:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
