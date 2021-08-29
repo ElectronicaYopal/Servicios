@@ -2559,3 +2559,14 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 402e60db] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   31af41b6..402e60db  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 28 ago 2021 19:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
