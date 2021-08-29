@@ -2801,3 +2801,14 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master b50ea8e4] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   4dce5e0d..b50ea8e4  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 29 ago 2021 00:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
