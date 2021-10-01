@@ -36589,3 +36589,11 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master 0b0f3361] update ngrok urls
+ 3 files changed, 21 insertions(+), 7 deletions(-)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+/////////////////////////////////////////////////////
