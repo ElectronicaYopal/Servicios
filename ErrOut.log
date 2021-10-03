@@ -37714,3 +37714,18 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master efc2dcab] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   5b547ff8..efc2dcab  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 02 oct 2021 20:30:01 -05 //////////
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+Already running, check update anyway
+Getting urls
+pushing to github
