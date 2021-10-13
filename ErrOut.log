@@ -49055,3 +49055,17 @@ y que el repositorio existe.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master a28e8836] update ngrok urls
+ 1 file changed, 15 insertions(+)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 13 oct 2021 13:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
