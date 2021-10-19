@@ -229,3 +229,17 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master d42f63ba] update ngrok urls
+ 1 file changed, 11 insertions(+)
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+Connection to github.com closed by remote host.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 19 oct 2021 14:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
