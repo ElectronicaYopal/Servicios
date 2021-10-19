@@ -4,3 +4,19 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 3eb679d2] update ngrok urls
+ 1 file changed, 6 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   33028fc6..3eb679d2  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 19 oct 2021 09:30:01 -05 //////////
+Desde github.com:ElectronicaYopal/Servicios
+   3eb679d2..f4a9c0da  master     -> origin/master
+Actualizando 3eb679d2..f4a9c0da
+Fast-forward
+ index.html | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+Already running, check update anyway
+Getting urls
+pushing to github
