@@ -42018,3 +42018,17 @@ y que el repositorio existe.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master d9ef5630d] update ngrok urls
+ 1 file changed, 15 insertions(+)
+git@github.com: Permission denied (publickey).
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 27 nov 2021 16:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
