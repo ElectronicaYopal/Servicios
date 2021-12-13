@@ -5551,3 +5551,21 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 24010633e] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   1616ebd54..24010633e  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 13 dic 2021 15:45:00 -05 //////////
+Ya está actualizado.
+Not running... setting up
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Conexión rehusada
+Opss, Cant get tunnel Info
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  lun 13 dic 2021 16:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
