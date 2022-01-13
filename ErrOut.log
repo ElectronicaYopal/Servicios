@@ -1655,3 +1655,14 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master eecd93eca] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   5e44301a6..eecd93eca  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  jue 13 ene 2022 00:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
