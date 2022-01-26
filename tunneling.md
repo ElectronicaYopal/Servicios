@@ -1,4 +1,4 @@
-ssh: tcp://2.tcp.ngrok.io:13010 
-http80: http://eeec-190-0-243-44.ngrok.io 
-http8080: http://a279-190-0-243-44.ngrok.io 
-http3000: http://6835-190-0-243-44.ngrok.io 
+ssh: tcp://0.tcp.ngrok.io:19264 
+http80: http://bdda-190-0-243-44.ngrok.io 
+http8080: http://a9ad-190-0-243-44.ngrok.io 
+http3000: http://5d0b-190-0-243-44.ngrok.io 
