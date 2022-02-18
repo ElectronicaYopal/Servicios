@@ -38689,3 +38689,17 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master e210da98f] update ngrok urls
+ 1 file changed, 11 insertions(+)
+ssh: connect to host github.com port 22: Connection timed out
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate que tienes los permisos de acceso correctos
+y que el repositorio existe.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 18 feb 2022 12:45:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
