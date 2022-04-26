@@ -561,3 +561,14 @@ y que el repositorio exista.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 786de36e1] update ngrok urls
+ 1 file changed, 18 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   0aaed081f..786de36e1  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 26 abr 2022 08:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
