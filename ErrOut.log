@@ -3761,3 +3761,17 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 3703d8356] update ngrok urls
+ 1 file changed, 14 insertions(+)
+kex_exchange_identification: read: Connection reset by peer
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 29 abr 2022 08:45:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
