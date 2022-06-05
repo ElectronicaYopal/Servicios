@@ -42655,3 +42655,16 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 8332fbad3] update ngrok urls
+ 1 file changed, 11 insertions(+)
+remote: fatal error in commit_refs        
+To github.com:ElectronicaYopal/Servicios.git
+ ! [remote rejected]     master -> master (failure)
+error: falló el push de algunas referencias a 'git@github.com:ElectronicaYopal/Servicios.git'
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 04 jun 2022 23:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
