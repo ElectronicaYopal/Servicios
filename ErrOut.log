@@ -43042,3 +43042,16 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+Auto empaquetado del repositorio en segundo plano para un rendimiento óptimo.
+Mira "git help gc" para limpieza manual.
+[master 7dd7e03ac] update ngrok urls
+ 1 file changed, 13 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   24bd52ef1..7dd7e03ac  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 05 jun 2022 08:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
