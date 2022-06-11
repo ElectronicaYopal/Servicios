@@ -49065,3 +49065,18 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master a07e45a7f] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   4cfe57d46..a07e45a7f  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 11 jun 2022 00:15:01 -05 //////////
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+pushing to github
