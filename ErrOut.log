@@ -77032,3 +77032,18 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 899ed6975] update ngrok urls
+ 1 file changed, 11 insertions(+)
+To github.com:ElectronicaYopal/Servicios.git
+   f8395a9ee..899ed6975  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  jue 07 jul 2022 11:45:01 -05 //////////
+ssh: Could not resolve hostname github.com: No address associated with hostname
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+pushing to github
