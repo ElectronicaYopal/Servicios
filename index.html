@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta http-equiv=“Pragma” content=”no-cache”>
+    <meta http-equiv=“Expires” content=”-1″>
+    <meta http-equiv=“CACHE-CONTROL” content=”NO-CACHE”>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=2.0,user-scalable=no">
+    <meta name="HandheldFriendly" content="true">
+
+    <title>Servicios Electrónica Yopal</title>
+	<link  rel="icon"   href="logo.png" type="image/png" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+	
+    <style type="text/css">
+    body {
+        font: 14px sans-serif;
+    }
+
+    .wrapper {
+        width: 400px;
+        padding: 20px;
+    }
+	
+	input[type="checkbox"] {
+		cursor: pointer;
+	}
+	
+	label {
+		cursor: pointer;
+	}
+    </style>
+	
+	<script type="text/javascript">
+	var web80 = "http://7448-190-0-243-44.ngrok.io";
+	var web8080 = "http://4a07-190-0-243-44.ngrok.io";
+	var web3000 = "http://4264-190-0-243-44.ngrok.io";
+	function handleSelect80(Servicios)
+	{
+		if(Servicios.checked == true) {
+			window.location = web80+Servicios.value;
+		}
+	}
+	function handleSelect8080(Servicios)
+	{
+		if(Servicios.checked == true) {
+			window.location = web8080+Servicios.value;
+		}
+	}
+	function handleSelect3000(Servicios)
+	{
+		if(Servicios.checked == true) {
+			window.location = web3000+Servicios.value;
+		}
+	}
+	</script>
+
+</head>
+
+<body>
+    <center>
+        <div class="wrapper">
+			<br>
+			<br>
+            <h2>Servicios Electrónica Yopal</h2>
+			<br>
+			<input type="checkbox" id="INGELAB" value="/INGELAB" onchange="handleSelect80(this)">
+			<label for="INGELAB"> Ingreso a laboratorios Electrónica</label><br>
+			<br>
+			<input type="checkbox" id="Weather" value="/" onchange="handleSelect3000(this)">
+			<label for="Weather"> Estación Meteorológica Unisangil</label><br>
+			<br><br>
+			<input type="checkbox" id="Api_1" value="/" onchange="handleSelect8080(this)">
+			<label for="Api_1"> Otros</label><br>
+			<br><br>
+			<b>Nota:</b><br> Enlaces a servicios generados aleatoriamente, compartir únicamente esta página.
+        </div>
+    </center>
+</body>
+
+</html>
