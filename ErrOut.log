@@ -10,3 +10,11 @@ pushing to github
 To github.com:ElectronicaYopal/Servicios.git
    b4eb887e3..52d3825c2  master -> master
 /////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 11 oct 2022 19:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+/home/serverelectronica/Scripts/Manager/Checker.sh: 49: [: =: unexpected operator
+no need to push
+/////////////////////////////////////////////////////
