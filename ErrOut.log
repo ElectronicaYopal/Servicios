@@ -2726,3 +2726,42 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master 13d7db2] update ngrok urls dom 16 oct 2022 07:15:06 -05
+ 3 files changed, 1377 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   86f292c..13d7db2  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 oct 2022 07:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 oct 2022 07:45:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 oct 2022 08:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 oct 2022 08:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 oct 2022 08:45:01 -05 //////////
+Ya está actualizado.
+Not running... setting up
+Getting urls
+pushing to github
