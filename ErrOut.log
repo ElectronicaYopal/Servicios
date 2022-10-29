@@ -11056,3 +11056,14 @@ y que el repositorio exista.
 Not running... setting up
 Getting urls
 pushing to github
+[master 5ada120] update ngrok urls sáb 29 oct 2022 04:00:15 -05
+ 3 files changed, 208 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   5c0bcd4..5ada120  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 29 oct 2022 04:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
