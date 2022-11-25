@@ -29539,3 +29539,17 @@ y que el repositorio exista.
 Not running... setting up
 Getting urls
 pushing to github
+[master b75abb1] update ngrok urls vie 25 nov 2022 14:00:14 -05
+ 3 files changed, 534 insertions(+), 7 deletions(-)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 25 nov 2022 14:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
