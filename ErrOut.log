@@ -60226,3 +60226,14 @@ y que el repositorio exista.
 Not running... setting up
 Getting urls
 pushing to github
+[master 705cd6f] update ngrok urls dom 05 feb 2023 20:00:14 -05
+ 3 files changed, 36 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   e3c7970..705cd6f  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 05 feb 2023 20:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
