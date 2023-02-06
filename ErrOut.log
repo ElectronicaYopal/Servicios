@@ -60197,3 +60197,32 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master e3c7970] update ngrok urls dom 05 feb 2023 19:15:07 -05
+ 3 files changed, 263 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   d334f93..e3c7970  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 05 feb 2023 19:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 05 feb 2023 19:45:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 05 feb 2023 20:00:01 -05 //////////
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Not running... setting up
+Getting urls
+pushing to github
