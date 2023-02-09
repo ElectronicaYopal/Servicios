@@ -62221,3 +62221,14 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master 860278c] update ngrok urls mié 08 feb 2023 18:45:14 -05
+ 3 files changed, 617 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   ef62f08..860278c  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 08 feb 2023 19:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
