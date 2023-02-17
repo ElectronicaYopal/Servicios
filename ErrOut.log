@@ -67754,3 +67754,14 @@ y que el repositorio exista.
 Not running... setting up
 Getting urls
 pushing to github
+[master dd6db94] update ngrok urls jue 16 feb 2023 23:00:10 -05
+ 3 files changed, 1366 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   ed67aca..dd6db94  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  jue 16 feb 2023 23:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+pushing to github
