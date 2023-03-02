@@ -1,4 +1,4 @@
-ssh: tcp://8.tcp.ngrok.io:15904 
-http80: http://d167-190-0-243-44.ngrok.io 
-http8080: http://8532-190-0-243-44.ngrok.io 
-http3000: http://f56b-190-0-243-44.ngrok.io 
+ssh: tcp://4.tcp.ngrok.io:16108 
+http80: http://b3b4-190-0-243-44.ngrok.io 
+http8080: http://9b41-190-0-243-44.ngrok.io 
+http3000: http://bfa0-190-0-243-44.ngrok.io 
