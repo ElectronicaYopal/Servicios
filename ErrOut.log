@@ -77286,3 +77286,60 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master 992783c] update ngrok urls vie 03 mar 2023 02:00:07 -05
+ 3 files changed, 95 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   b107a8a..992783c  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 03 mar 2023 02:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 03 mar 2023 02:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 03 mar 2023 02:45:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 03 mar 2023 03:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 03 mar 2023 03:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 03 mar 2023 03:30:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  vie 03 mar 2023 03:45:01 -05 //////////
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Not running... setting up
+Getting urls
+pushing to github
