@@ -83075,3 +83075,28 @@ y que el repositorio exista.
 Not running... setting up
 Getting urls
 pushing to github
+[master f087b43] update ngrok urls sáb 11 mar 2023 14:30:05 -05
+ 3 files changed, 113 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   fdd0540..f087b43  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 11 mar 2023 14:45:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 11 mar 2023 15:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 11 mar 2023 18:45:00 -05 //////////
+Ya está actualizado.
+Not running... setting up
+Getting urls
+pushing to github
