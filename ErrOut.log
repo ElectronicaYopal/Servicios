@@ -1,0 +1,50 @@
+
+////////// Crontab Check ngrok:  mié 12 abr 2023 16:15:01 -05 //////////
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+SHA256:uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s.
+Please contact your system administrator.
+Add correct host key in /home/serverelectronica/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /home/serverelectronica/.ssh/known_hosts:1
+  remove with:
+  ssh-keygen -f "/home/serverelectronica/.ssh/known_hosts" -R "github.com"
+RSA host key for github.com has changed and you have requested strict checking.
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mié 12 abr 2023 16:30:01 -05 //////////
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+SHA256:uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s.
+Please contact your system administrator.
+Add correct host key in /home/serverelectronica/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /home/serverelectronica/.ssh/known_hosts:1
+  remove with:
+  ssh-keygen -f "/home/serverelectronica/.ssh/known_hosts" -R "github.com"
+RSA host key for github.com has changed and you have requested strict checking.
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
