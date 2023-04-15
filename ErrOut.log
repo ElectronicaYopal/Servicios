@@ -2569,3 +2569,21 @@ y que el repositorio exista.
 Not running... setting up
 Getting urls
 pushing to github
+[master 433f1b6] update ngrok urls sáb 15 abr 2023 10:15:05 -05
+ 3 files changed, 47 insertions(+), 7 deletions(-)
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 10:30:01 -05 //////////
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+pushing to github
