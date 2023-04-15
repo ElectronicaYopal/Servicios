@@ -2507,3 +2507,25 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master 8a6b625] update ngrok urls sáb 15 abr 2023 09:00:07 -05
+ 3 files changed, 2506 insertions(+), 7 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   b5c9ec5..8a6b625  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 09:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 09:30:01 -05 //////////
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Not running... setting up
+Getting urls
+pushing to github
