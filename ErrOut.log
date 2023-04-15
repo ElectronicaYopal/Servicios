@@ -2613,3 +2613,21 @@ fatal: No se pudo leer del repositorio remoto.
 Por favor asegúrate de que tengas los permisos de acceso correctos
 y que el repositorio exista.
 /////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 11:00:01 -05 //////////
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 11:15:01 -05 //////////
+Warning: Permanently added the ECDSA host key for IP address '140.82.114.4' to the list of known hosts.
+Ya está actualizado.
+Not running... setting up
+Getting urls
+pushing to github
