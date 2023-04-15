@@ -2529,3 +2529,43 @@ y que el repositorio exista.
 Not running... setting up
 Getting urls
 pushing to github
+[master a6fbafb] update ngrok urls sáb 15 abr 2023 09:30:05 -05
+ 3 files changed, 29 insertions(+), 7 deletions(-)
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 09:45:01 -05 //////////
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 10:00:01 -05 //////////
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  sáb 15 abr 2023 10:15:01 -05 //////////
+Host key verification failed.
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+Not running... setting up
+Getting urls
+pushing to github
