@@ -3164,3 +3164,28 @@ Ya está actualizado.
 Not running... setting up
 Getting urls
 pushing to github
+[master d8c3563] update ngrok urls dom 16 abr 2023 05:45:07 -05
+ 3 files changed, 527 insertions(+), 5 deletions(-)
+To github.com:ElectronicaYopal/Servicios.git
+   655d5e9..d8c3563  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 abr 2023 06:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 abr 2023 06:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  dom 16 abr 2023 06:30:01 -05 //////////
+Ya está actualizado.
+Not running... setting up
+Getting urls
+pushing to github
