@@ -9507,3 +9507,29 @@ Ya está actualizado.
 Already running, check update anyway
 Getting urls
 pushing to github
+[master 18a7a09] update ngrok urls mar 25 abr 2023 08:45:03 -05
+ 3 files changed, 525 insertions(+), 5 deletions(-)
+remote: Resolving deltas:   0% (0/6)        remote: Resolving deltas:  16% (1/6)        remote: Resolving deltas:  33% (2/6)        remote: Resolving deltas:  50% (3/6)        remote: Resolving deltas:  66% (4/6)        remote: Resolving deltas:  83% (5/6)        remote: Resolving deltas: 100% (6/6)        remote: Resolving deltas: 100% (6/6), completed with 3 local objects.        
+To github.com:ElectronicaYopal/Servicios.git
+   8bda6b9..18a7a09  master -> master
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 25 abr 2023 09:00:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 25 abr 2023 09:15:01 -05 //////////
+Ya está actualizado.
+Already running, check update anyway
+Getting urls
+no need to push
+/////////////////////////////////////////////////////
+
+////////// Crontab Check ngrok:  mar 25 abr 2023 09:30:01 -05 //////////
+Ya está actualizado.
+Not running... setting up
+Getting urls
+pushing to github
