@@ -1,4 +1,4 @@
-ssh: tcp://6.tcp.ngrok.io:19311 
-http80: https://96fc-190-0-243-44.ngrok-free.app 
+ssh:  
+http80:  
 http8080:  
-http3000: https://8217-190-0-243-44.ngrok-free.app 
+http3000:  
